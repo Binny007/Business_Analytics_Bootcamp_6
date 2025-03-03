@@ -11,12 +11,12 @@ This repository explores various ranking charts and their best practices using a
 
 **✅ DO's:**
 
-Use bar charts for comparing discrete categories.
-
-Keep bars aligned to a common baseline.
-
-Sort bars in descending order for better readability.
-
-Use consistent color schemes.
-
-Label bars clearly and use gridlines when necessary.
+    * Use bar charts for comparing discrete categories.
+    
+    * Keep bars aligned to a common baseline.
+    
+    * Sort bars in descending order for better readability.
+    
+    * Use consistent color schemes.
+    
+    * Label bars clearly and use gridlines when necessary.
