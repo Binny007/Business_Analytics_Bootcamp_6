@@ -3,13 +3,13 @@
 
 # Ranking Charts: A Comprehensive Guide
 
-###Overview
+**Overview**
 
 This repository explores various ranking charts and their best practices using a case study on the World Happiness Dataset. It includes implementations, dos and don'ts, and insights into different visualization techniques.
 
-1. Bar Charts
+**1. Bar Charts**
 
-✅ DO's:
+**✅ DO's:**
 
 Use bar charts for comparing discrete categories.
 
